@@ -7,7 +7,7 @@ export const Post = () => {
   return (
     <div>
       <h1>
-        Post{`Params: ${id}`} {`QS: ${qs.get("page")}`}
+        Post{`Params: ${id}`} {`QS: ${qs.get("segunda")}`}
       </h1>
     </div>
   );
